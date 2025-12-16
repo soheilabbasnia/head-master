@@ -93,3 +93,7 @@ These are Headmaster commands:
         case _:
             print(setcolor('Ooops! Your word is wrong','red'))
 
+
+
+
+
