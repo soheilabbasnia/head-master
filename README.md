@@ -11,7 +11,7 @@ A lightweight, persistent command-line **Task Management** console application b
 
 ---
 
-## 🌟 Overview
+## Overview
 
 Staying organized from within the developer terminal boosts focus and productivity. **HeadMaster** provides an interactive command shell that manages your daily tasks, reminders, and todos directly from the console with persistent SQLite database storage.
 
@@ -23,7 +23,7 @@ Key highlights:
 
 ---
 
-## ✨ Features & Command Reference
+## Features & Command Reference
 
 | Command | Action | Description |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ Key highlights:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 head-master/
@@ -81,7 +81,7 @@ head-master/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, feature requests, and CLI improvements are welcome!
 1. Fork the repository.
@@ -92,7 +92,8 @@ Contributions, feature requests, and CLI improvements are welcome!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Free and open-source for personal and educational use.
+
