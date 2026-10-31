@@ -2,10 +2,10 @@
 
 # سامانه مدیریت تسک‌های ترمینال هدمستر (HeadMaster CLI)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Python: 3.x](https://img.shields.io/badge/پایتون-3.x-3776AB.svg?logo=python&logoColor=white)](https://python.org)
-[![Database: SQLite3](https://img.shields.io/badge/دیتابیس-SQLite3-003B57.svg?logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Interface: CLI](https://img.shields.io/badge/رابط_کاربری-ترمینال%20%7C%20کنسول-black.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python: 3.x](https://img.shields.io/badge/Python-3.x-3776AB.svg?logo=python&logoColor=white)](https://python.org)
+[![Database: SQLite3](https://img.shields.io/badge/Database-SQLite3-003B57.svg?logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Interface: CLI](https://img.shields.io/badge/Interface-CLI%20%2F%20Terminal-black.svg)](#)
 
 [English](README.md) | فارسی
 
@@ -86,11 +86,12 @@ head-master/
 ## مشارکت
 
 پیشنهادات توسعه، اضافه کردن تاریخ سررسید (Due Date) یا اولویت‌بندی تسک‌ها بسیار خوشایند است!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید برای قابلیت خود بسازید (`git checkout -b feature/due-dates`).
-۳. تغییرات را کامیت کنید (`git commit -m 'Add priority tags to tasks'`).
-۴. تغییرات را به برنچ خود پوش نمایید (`git push origin feature/due-dates`).
-۵. یک پول ریکوئست (Pull Request) باز نمایید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b feature/task-priority`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin feature/task-priority`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
